@@ -189,3 +189,9 @@ INSERT INTO fees (student_id, amount, payment_date, status, payment_method, tran
 VALUES
 (11, 500.00, '2024-09-15', 'Paid', 'Card', 'TRX10001'),
 (12, 500.00, '2024-09-20', 'Paid', 'Mobile Money', 'TRX10002');
+
+--  data insertion for users
+INSERT INTO users (username, password_hash, email, role, teacher_id)
+VALUES
+('admin1', 'hashedpassword1', 'admin1@school.edu', 'Admin', NULL),
+('jdoe', 'hashedpassword2', 'johndoe@school.edu', 'Teacher', 1);
