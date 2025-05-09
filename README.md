@@ -1,12 +1,12 @@
-# Student_Record_database
+# AZ schoolbd
 
-Project Title: students record database.
+Project Title: az_schoolsdb.
 
 project Description
 
-This database project is divided into four categories
+This database project is divided into five categories
 
-# students records section
+# students record section
 
 this contains students information such as
 enrollments
@@ -20,8 +20,12 @@ this contains teachers information
 
 # Admin section
 
-this contains information on board of administration
+this contains information of board of administration
 
 # Courses offered in the school
 
+this contains various courses offered the school
+
 # Departments in the school
+
+this contains various departments the in the school
