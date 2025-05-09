@@ -1,6 +1,6 @@
-CREATE DATABASE student_record;
+CREATE DATABASE az_schooldb;
 
-USE student_record;
+USE az_schooldb;
 
 -- create table for students
 CREATE TABLE students (
